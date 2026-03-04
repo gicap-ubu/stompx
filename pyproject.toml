@@ -13,11 +13,11 @@ readme = "README.md"
 requires-python = ">=3.9"
 
 dependencies = [
-    "numpy",
-    "networkx",
-    "matplotlib",
-    "plotly",
-    "scipy",
+    "numpy>=1.23",
+    "networkx>=3.0",
+    "matplotlib>=3.7",
+    "plotly>=5.18",
+    "scipy>=1.10",
 ]
 
 [project.urls]
