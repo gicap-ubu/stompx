@@ -18,8 +18,8 @@ pip install -e.
 ## Core Dependencies 
 ### Core Dependencies
 
-| Package | Version | Purpose |
-|:---|:---:|:---|
+| Package | Version |
+|:---|:---:|
 | **NumPy** | >= 1.23 | 
 | **NetworkX** | >= 3.0 | 
 | **Matplotlib** | >= 3.7 | 
