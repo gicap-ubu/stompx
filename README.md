@@ -15,7 +15,16 @@ git clone https://github.com/rrodgar/stompx.git
 cd stompx
 pip install -e.
 ```
+## Core Dependencies 
+### Core Dependencies
 
+| Package | Version | Purpose |
+|:---|:---:|:---|
+| **NumPy** | >= 1.23 | 
+| **NetworkX** | >= 3.0 | 
+| **Matplotlib** | >= 3.7 | 
+| **Plotly** | >= 5.18 |
+| **SciPy** | >= 1.10 |  
 ## Examples
 
 ![Stochastic network animation](figures/animacion_gif.gif)
