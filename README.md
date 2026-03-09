@@ -30,7 +30,7 @@ pip install -e.
 ![Stochastic network animation](figures/animacion_gif.gif)
 
 
-A short usage example is provided in a Jupyter notebook.
+A short usage example is provided in a [Jupyter notebook](https://github.com/rrodgar/stompx/blob/master/notebooks/notebook_example.ipynb).
 
 ## License
 
