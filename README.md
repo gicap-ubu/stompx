@@ -24,7 +24,8 @@ pip install -e.
 | **NetworkX** | >= 3.0 | 
 | **Matplotlib** | >= 3.7 | 
 | **Plotly** | >= 5.18 |
-| **SciPy** | >= 1.10 |  
+| **SciPy** | >= 1.10 |
+| **Pandas** | >= 2.2 |  
 ## Examples
 
 ![Stochastic network animation](figures/animacion_gif.gif)
