@@ -28,7 +28,7 @@ pip install -e.
 | **Pandas** | >= 2.2 |  
 ## Examples
 
-![Stochastic network animation](figures/animacion_gif.gif)
+![Stochastic network animation](https://raw.githubusercontent.com/rrodgar/stompx/master/figures/animacion_gif.gif)
 
 
 A short usage example is provided in a [Jupyter notebook](https://github.com/rrodgar/stompx/blob/master/notebooks/notebook_example.ipynb).
