@@ -15,6 +15,10 @@ git clone https://github.com/rrodgar/stompx.git
 cd stompx
 pip install -e.
 ```
+Or directly from pypi
+```bash
+pip install stompx
+```
 ## Core Dependencies 
 ### Core Dependencies
 
