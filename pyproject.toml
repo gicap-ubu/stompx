@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 [project]
 name = "stompx"
-version = "0.0.1"
+version = "0.0.2"
 description = "Stochastic  propagation on networks models and tools, with application to malware"
 authors = [
     { name = "Rafael Rodríguez", email = "rafael.rodriguez@ubu.es" }
